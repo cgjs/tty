@@ -1,0 +1,33 @@
+{
+  "name": "@cgjs/tty",
+  "version": "0.0.0",
+  "description": "tty core module for cgjs",
+  "scripts": {
+    "test": "cgjs ./test"
+  },
+  "keywords": [
+    "gjs",
+    "require",
+    "commonjs",
+    "npm",
+    "node",
+    "gtk",
+    "native",
+    "cgjs",
+    "tty"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgjs/tty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cgjs/tty/issues"
+  },
+  "homepage": "https://github.com/cgjs/tty#readme",
+  "dependencies": {
+    "cgjs": "^0.1.3"
+  }
+}
